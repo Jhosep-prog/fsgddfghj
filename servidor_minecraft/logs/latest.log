@@ -241,3 +241,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17May2025 15:26:43.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nialll044444[/127.185.198.114:49391] logged in with entity id 14817 at (1325.7011042533754, 67.9375, -2691.8103120972864)
 [17May2025 15:26:43.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 joined the game
 [17May2025 15:28:59.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> maderaaaaaaaaaaaa
+[17May2025 15:39:58.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> voy a estar afk un rato noma
+[17May2025 15:40:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> 5m
+[17May2025 15:40:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ya
+[17May2025 15:44:09.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9666, l='ServerLevel[world]', x=1378.38, y=67.00, z=-2778.44] died, message: 'Leatherworker was slain by jheremy2509'

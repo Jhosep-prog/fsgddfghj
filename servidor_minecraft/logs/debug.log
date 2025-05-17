@@ -1761,3 +1761,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17May2025 15:28:59.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> maderaaaaaaaaaaaa
 [17May2025 15:30:51.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17May2025 15:30:51.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 15:35:51.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 15:35:51.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 15:39:58.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> voy a estar afk un rato noma
+[17May2025 15:40:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> 5m
+[17May2025 15:40:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ya
+[17May2025 15:40:51.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 15:40:51.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 15:44:09.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9666, l='ServerLevel[world]', x=1378.38, y=67.00, z=-2778.44] died, message: 'Leatherworker was slain by jheremy2509'
