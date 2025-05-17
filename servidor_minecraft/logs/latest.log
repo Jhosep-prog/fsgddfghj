@@ -245,3 +245,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17May2025 15:40:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> 5m
 [17May2025 15:40:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ya
 [17May2025 15:44:09.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9666, l='ServerLevel[world]', x=1378.38, y=67.00, z=-2778.44] died, message: 'Leatherworker was slain by jheremy2509'
+[17May2025 15:50:09.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 has made the advancement [Incendium]
+[17May2025 15:50:09.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 has made the advancement [We Need to Go Deeper]
+[17May2025 15:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 15:50:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 15:50:21.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jheremy2509 lost connection: Disconnected
+[17May2025 15:50:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 left the game
+[17May2025 15:50:21.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 15:50:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2025 15:50:25.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2025 15:50:28.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2025 15:50:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2025 15:50:28.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 15:50:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 15:50:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17May2025 15:50:28.297] [Server thread/INFO] [Framework/]: Unloading server configs...
