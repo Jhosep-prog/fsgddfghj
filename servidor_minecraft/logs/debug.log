@@ -1450,3 +1450,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17May2025 14:30:51.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17May2025 14:31:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> w
 [17May2025 14:31:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 has made the advancement [Sweet Dreams]
+[17May2025 14:35:28.044] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17May2025 14:35:51.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 14:35:51.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 14:40:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to nialll044444: oe estas ahi?
+[17May2025 14:40:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> no
+[17May2025 14:40:47.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> nesesito 4 de hierro xd
+[17May2025 14:40:51.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 14:40:51.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 14:41:04.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to nialll044444: xd pense que ya no entraste no vi el mensaje de que te volviste a unir
+[17May2025 14:41:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to nialll044444: debajo de la casa solitaria hay hierro ahi minalo
+[17May2025 14:41:33.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> ok
+[17May2025 14:42:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 has made the advancement [Stone Age]
