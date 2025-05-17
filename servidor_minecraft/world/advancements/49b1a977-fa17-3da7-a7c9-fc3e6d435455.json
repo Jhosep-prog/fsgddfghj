@@ -912,6 +912,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-17 15:26:09 +0000",
       "minecraft:spider": "2025-05-17 02:22:26 +0000",
       "minecraft:zombie": "2025-05-17 02:15:34 +0000"
     },
@@ -1175,12 +1176,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-17 02:52:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-17 02:52:35 +0000"
@@ -1199,15 +1194,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-17 02:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-17 02:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-17 02:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_planks": "2025-05-17 02:52:35 +0000"
+      "lava_bucket": "2025-05-17 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-17 15:26:08 +0000"
     },
     "done": true
   },

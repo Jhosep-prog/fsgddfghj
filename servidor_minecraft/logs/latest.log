@@ -231,3 +231,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17May2025 15:03:55.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> 1304 ~ -2904
 [17May2025 15:04:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to nialll044444: e?
 [17May2025 15:04:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> portal xd
+[17May2025 15:22:13.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@651665e7[id=<null>,name=jheremy2509,properties={},legacy=false] (/127.215.128.40:35893) lost connection: Disconnected
+[17May2025 15:22:17.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jheremy2509[/127.215.128.40:50143] logged in with entity id 13550 at (1369.055436629986, 63.0, -2759.0017557448305)
+[17May2025 15:22:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 joined the game
+[17May2025 15:24:11.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Hot Stuff]
+[17May2025 15:26:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Not Today, Thank You]
+[17May2025 15:26:39.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nialll044444 lost connection: Disconnected
+[17May2025 15:26:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 left the game
+[17May2025 15:26:43.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nialll044444[/127.185.198.114:49391] logged in with entity id 14817 at (1325.7011042533754, 67.9375, -2691.8103120972864)
+[17May2025 15:26:43.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nialll044444 joined the game
+[17May2025 15:28:59.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> maderaaaaaaaaaaaa
